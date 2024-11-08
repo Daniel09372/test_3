@@ -10,3 +10,7 @@ print("Ich bin der Geilste!")
 # Hier ist das Programm zuende.
 
 # Nix da, schreib bitte den Code weiter!!!
+
+# Sorry, hast recht:
+
+print("Hier hast du")
