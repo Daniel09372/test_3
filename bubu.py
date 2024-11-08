@@ -5,3 +5,6 @@ if answer == "Bebi" or answer == "Daniel":
 else: print("Das solltest du dir nochmal überlegen")
 
 print("Ich bin der Geilste!")
+
+
+# Hier ist das Programm zuende.
